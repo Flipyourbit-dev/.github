@@ -1,2 +1,2 @@
 # .github
- used for testing fyb main change that may require infra breaking changes
+ Used as the landing page for Flipyourbit.org  a friends and family organization 
